@@ -5,7 +5,7 @@ print("""
 investment - to calculate the amount of interest you'll earn on your investment
 bond - to calculate the amount you'll have to pay on a home loan
       """)
-
+newVariable=1
 #Store the option selected either bond or investment
 calculator_Option = input("Enter either 'investment' or 'bond' from the menu above to proceed: ")
 
