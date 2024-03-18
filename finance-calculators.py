@@ -1,6 +1,8 @@
 import math
 #First statement explaining the different options
-print("This is a finance calculator")
+
+
+print("Finance Calculator 2")
 print("""
 investment - to calculate the amount of interest you'll earn on your investment
 bond - to calculate the amount you'll have to pay on a home loan
